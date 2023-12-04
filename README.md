@@ -4,8 +4,8 @@ This project leverages Convolutional Neural Networks (CNNs) for automatically co
 
 ## Usage
 
-1. Clone this repository to your local machine git clone
-2. Replace the CaffeModel file by downloading the file on the drive link
+1. Clone this repository to your local machine
+2. Replace the CaffeModel file by downloading the file from the drive link
 3. Run the 'main.py' file
 4. Run the 'test.py' file
 
